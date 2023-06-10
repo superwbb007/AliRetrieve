@@ -1,0 +1,1000 @@
+ 1100  clear
+ 1101  make run
+ 1102  clear
+ 1103  make run
+ 1104  git add ./
+ 1105  git commit -m "thread stride"
+ 1106  git push
+ 1107  make run
+ 1108  clear
+ 1109  make run
+ 1110  clear
+ 1111  make run
+ 1112  clear
+ 1113  make run
+ 1114  clear
+ 1115  make run
+ 1116  git add ../../
+ 1117  git commit -m  "Stride "
+ 1118  git push
+ 1119  make run
+ 1120  clear
+ 1121  make run
+ 1122  cleear
+ 1123  clear
+ 1124  make run
+ 1125  clear
+ 1126  make run
+ 1127  clear
+ 1128  make run
+ 1129  clear
+ 1130  make run
+ 1131  clear
+ 1132  make run
+ 1133  clear
+ 1134  make run
+ 1135  clear
+ 1136  make run
+ 1137  clear
+ 1138  make run
+ 1139  clear
+ 1140  make run
+ 1141  clear
+ 1142  make run
+ 1143  clear
+ 1144  make run
+ 1145  clear
+ 1146  make run
+ 1147  git add ./
+ 1148  git commit -m "moving pointer"
+ 1149  make run
+ 1150  clear
+ 1151  npm run start
+ 1152  git add ./
+ 1153  make run
+ 1154  clear
+ 1155  cd sa
+ 1156  cd sans/
+ 1157  npm run  dev
+ 1158  git add ./
+ 1159  git commit -m "todo "
+ 1160  git push
+ 1161  npm run dev
+ 1162  git add ../
+ 1163  git add ./
+ 1164  git commit -m "still  need some"
+ 1165  git push
+ 1166  ls
+ 1167  cd ../
+ 1168  source  sourceme.sh 
+ 1169  cd test/
+ 1170  make 
+ 1171  cd ../
+ 1172  make
+ 1173  cd test/
+ 1174  ls
+ 1175  ./run_bl_dgemm.sh 
+ 1176  cd ../
+ 1177  ls
+ 1178  source sourceme.sh 
+ 1179  ls
+ 1180  cd test/
+ 1181  ./run_bl_dgemm.sh 
+ 1182  cd ../
+ 1183  make
+ 1184  cd test/
+ 1185  ./run_bl_dgemm.sh 
+ 1186  cd ../
+ 1187  source sourceme.sh 
+ 1188  make
+ 1189  cd test/
+ 1190  ls
+ 1191  ./run_bl_dgemm.sh 
+ 1192  cd ../
+ 1193  ls
+ 1194  source sourceme.sh 
+ 1195  make clean
+ 1196  make 
+ 1197  cd test/
+ 1198  ./run_bl_dgemm.sh 
+ 1199  cd ../
+ 1200  clear
+ 1201  make
+ 1202  cd test/
+ 1203  ./run_bl_dgemm.sh 
+ 1204  cd ../
+ 1205  cd step1/
+ 1206  ls
+ 1207  make
+ 1208  make clean 
+ 1209  make
+ 1210  cd test/
+ 1211  ./collect_result_step1.sh 
+ 1212  cd ../../step2/
+ 1213  ls
+ 1214  cd ../
+ 1215  cd step3
+ 1216  octave
+ 1217  cd ../
+ 1218  make clean
+ 1219  make
+ 1220  make clean
+ 1221  ls
+ 1222  source sourceme.sh 
+ 1223  make clean
+ 1224  make
+ 1225  make clean
+ 1226  make
+ 1227  make clean
+ 1228  make
+ 1229  make clean
+ 1230  make
+ 1231  lscpus
+ 1232  lscpu
+ 1233  cd step3/
+ 1234  make
+ 1235  source sourceme.sh 
+ 1236  make
+ 1237  cd  test/
+ 1238  ./collect_result_step3.sh 
+ 1239  cd ../
+ 1240  make clean
+ 1241  cd test/
+ 1242  ./collect_result_step3.sh 
+ 1243  cd ../
+ 1244  make
+ 1245  cd  test/
+ 1246  ./collect_result_step3.sh 
+ 1247  debug
+ 1248  cd ../../
+ 1249  cd  blislab/
+ 1250  ls
+ 1251  cd  step4
+ 1252  ls
+ 1253  cd test/
+ 1254  octave
+ 1255  octave  
+ 1256  cd test/
+ 1257  ./collect_result_step3.sh 
+ 1258  cd ../../
+ 1259  cd step4/test/
+ 1260  ls
+ 1261  ./tacc_run_bl_dgemm.sh 
+ 1262  cd ../
+ 1263  source sourceme.sh 
+ 1264  cd test/
+ 1265  ./tacc_run_bl_dgemm.sh 
+ 1266  ls
+ 1267  chmod +555 collect.sh 
+ 1268  ls
+ 1269  ./collect.sh 
+ 1270  cd ../
+ 1271  source 
+ 1272  source sourceme.sh 
+ 1273  make clean 
+ 1274  make
+ 1275  make clean
+ 1276  make
+ 1277  make clean
+ 1278  make
+ 1279  source sourceme.sh 
+ 1280  make
+ 1281  make clean
+ 1282  make
+ 1283  make clean
+ 1284  make
+ 1285  make cleab
+ 1286  make clean
+ 1287  make
+ 1288  make clean
+ 1289  make clean -C test/
+ 1290  make
+ 1291  make clean -C test/
+ 1292  make
+ 1293  cd ../
+ 1294  cd riven/
+ 1295  git add ./
+ 1296  git commit -m "vmul"
+ 1297  git push
+ 1298  ls
+ 1299  chmod +555 run.sh 
+ 1300  ./run.sh 
+ 1301  chmod +777 run.sh 
+ 1302  ./run.sh 
+ 1303  chmod +777 run.sh 
+ 1304  ./run.sh 
+ 1305  cat /etc/ImageMagick-6/policy.xml
+ 1306  code /etc/ImageMagick-6/policy.xml
+ 1307  sudo code /etc/ImageMagick-6/policy.xml
+ 1308  sudo vim /etc/ImageMagick-6/policy.xml
+ 1309  sudo vi /etc/ImageMagick-6/policy.xml
+ 1310  clear
+ 1311  octave
+ 1312  cd step4/
+ 1313  ls
+ 1314  cd test/
+ 1315  ls
+ 1316  octave
+ 1317  clear
+ 1318  cd step4/
+ 1319  clear
+ 1320  ls
+ 1321  cd test/
+ 1322  ls
+ 1323  clear
+ 1324  octave
+ 1325  cd ../../
+ 1326  cd step3
+ 1327  clear
+ 1328  ls
+ 1329  cd test/
+ 1330  octave
+ 1331  make run 
+ 1332  ./outputs/test_MMult.x 
+ 1333  make run 
+ 1334  clear
+ 1335  make run 
+ 1336  ./outputs/test_MMult.x 
+ 1337  make run 
+ 1338  ./outputs/test_MMult.x 
+ 1339  make clean
+ 1340  make run 
+ 1341  ./outputs/test_MMult.x 
+ 1342  make run 
+ 1343  ./outputs/test_MMult.x 
+ 1344  make run 
+ 1345  git add ./
+ 1346  git commit -m "avx segment fail"
+ 1347  git push
+ 1348  make run 
+ 1349  clear
+ 1350  make run 
+ 1351  git add ./
+ 1352  git commit -m "mm align"
+ 1353  git push
+ 1354  octave 
+ 1355  clear
+ 1356  make run 
+ 1357  clear
+ 1358  make run 
+ 1359  git add ./
+ 1360  git commit -m "align"
+ 1361  git push
+ 1362  make run 
+ 1363  clearr
+ 1364  clear
+ 1365  make run 
+ 1366  ./outputs/test_MMult.x 
+ 1367  make run 
+ 1368  clear
+ 1369  make run 
+ 1370  clear
+ 1371  make run 
+ 1372  clear
+ 1373  make run 
+ 1374  clear
+ 1375  make run 
+ 1376  clear
+ 1377  make run 
+ 1378  clear
+ 1379  make run 
+ 1380  clear
+ 1381  make run 
+ 1382  clear
+ 1383  make run 
+ 1384  clear
+ 1385  make run 
+ 1386  git add ./
+ 1387  git commit  -m "vector store"
+ 1388  git push
+ 1389  cd ../
+ 1390  git clone git@github.com:michael-lehn/ulmBLAS.git
+ 1391  cd  ulmBLAS/
+ 1392  git branch -a
+ 1393  git checkout -B demo-pure-c remotes/origin/demo-pure-c  
+ 1394  git pull
+ 1395  make
+ 1396  git checkout emo-naive-sse-with-intrinsics
+ 1397  git checkout demo-naive-sse-with-intrinsics
+ 1398  git checkout .
+ 1399  git checkout demo-naive-sse-with-intrinsics
+ 1400  git add ./
+ 1401  git commit -m "moving site"
+ 1402  git push
+ 1403  clear
+ 1404  make run 
+ 1405  clear
+ 1406  make run 
+ 1407  clear
+ 1408  make run 
+ 1409  clear
+ 1410  make run 
+ 1411  clear
+ 1412  make run 
+ 1413  clear
+ 1414  make run 
+ 1415  clear
+ 1416  make run 
+ 1417  clear
+ 1418  make run 
+ 1419  clear
+ 1420  make run 
+ 1421  git add ./
+ 1422  git commit -m "reorder is funning"
+ 1423  git push
+ 1424  make run 
+ 1425  clear
+ 1426  make run 
+ 1427  clear
+ 1428  make run 
+ 1429  clear
+ 1430  make run 
+ 1431  git add ./
+ 1432  git commit -m "asm"
+ 1433  git push
+ 1434  octave
+ 1435  clear
+ 1436  clear
+ 1437  clear
+ 1438  cd outputs/
+ 1439  octave 
+ 1440  clear
+ 1441  make run 
+ 1442  objdump -d -S outputs/MMult22_avx2.o > outputs/asm/MMult22_avx2_print.S
+ 1443  make run
+ 1444  clear
+ 1445  make run
+ 1446  cleear
+ 1447  clear
+ 1448  make run
+ 1449  clear
+ 1450  make run
+ 1451  make clean
+ 1452  make run
+ 1453  make all
+ 1454  gcc -O2 -Wall -mavx -c test_MMult.c -o outputs/test_MMult.o
+ 1455  git add MMult24_asm.c 
+ 1456  git add test_MMult.c 
+ 1457  git commit -m "checkout"
+ 1458  git push
+ 1459  git checkout ./
+ 1460  git pull
+ 1461  make run
+ 1462  clear
+ 1463  make run
+ 1464  clear
+ 1465  make run
+ 1466  git add ./
+ 1467  git commit  -m "asm gear up"
+ 1468  git push
+ 1469  clear
+ 1470  make run
+ 1471  git add ./
+ 1472  git commit -m "asm  gear up"
+ 1473  git push
+ 1474  make run
+ 1475  make run\
+ 1476  make run
+ 1477  git add ./
+ 1478  git commit  -m "output test"
+ 1479  git push
+ 1480  make run
+ 1481  clear
+ 1482  make run
+ 1483  clear
+ 1484  make run
+ 1485  clear
+ 1486  make run
+ 1487  clear
+ 1488  make run
+ 1489  clear
+ 1490  make run
+ 1491  clear
+ 1492  make run
+ 1493  git add ./
+ 1494  git commit -m "add debugger"
+ 1495  git push
+ 1496  make run
+ 1497  clear
+ 1498  make run
+ 1499  clear
+ 1500  make run
+ 1501  git add ./
+ 1502  git commit -m "reorder no use"
+ 1503  git push
+ 1504  make run
+ 1505  git add ./
+ 1506  git commit -m "todo prefetch"
+ 1507  git push
+ 1508  clear
+ 1509  cd step3/
+ 1510  make clean
+ 1511  make
+ 1512  source sourceme.sh 
+ 1513  make 
+ 1514  make clean
+ 1515  make
+ 1516  cd test/
+ 1517  ./collect_result_step3.sh 
+ 1518  octave
+ 1519  clear
+ 1520  git checkout demo-sse-all-asm-try-prefetching
+ 1521  make clean
+ 1522  cd step3/
+ 1523  source sourceme.sh 
+ 1524  make clean
+ 1525  make
+ 1526  cd test/
+ 1527  ./collect_result_step3.sh 
+ 1528  octave 
+ 1529  clear
+ 1530  cd outputs/
+ 1531  octave  
+ 1532  cd step3/
+ 1533  make clean
+ 1534  source  sourceme.sh 
+ 1535  make clean
+ 1536  make 
+ 1537  cd test/
+ 1538  ./collect_result_step3.sh 
+ 1539  clear
+ 1540  cd ../
+ 1541  make clean
+ 1542  make
+ 1543  cd  test/
+ 1544  ./collect_result_step3.sh 
+ 1545  clear
+ 1546  cd ../
+ 1547  make clean
+ 1548  make
+ 1549  make clean
+ 1550  source sourceme.sh 
+ 1551  make clean
+ 1552  make
+ 1553  cd test/
+ 1554  ./collect_result_step3.sh 
+ 1555  clear
+ 1556  cd ../
+ 1557  clear
+ 1558  make  clean
+ 1559  make
+ 1560  cd  test/
+ 1561  ./collect_result_step3.sh 
+ 1562  npm run start
+ 1563  npm run dev
+ 1564  git add ./
+ 1565  git commit -m  "new post"
+ 1566  git pushh
+ 1567  git push
+ 1568  ls
+ 1569  touch
+ 1570  git add ./
+ 1571  git commit -m "review"
+ 1572  git push
+ 1573  git add ./
+ 1574  git commit -m "list"
+ 1575  git push
+ 1576  npm run dev
+ 1577  git add ./
+ 1578  git commit -m "conclusion"
+ 1579  git push
+ 1580  npm run dev
+ 1581  git add ./
+ 1582  git commit -m "gemm "
+ 1583  git add ./
+ 1584  git push
+ 1585  git add ./
+ 1586  git commit -m "conclusion"
+ 1587  git push
+ 1588  cd outputs/
+ 1589  ls
+ 1590  octave
+ 1591  cd ../../
+ 1592  cd ../
+ 1593  cd cuda_gemm/
+ 1594  cd src/
+ 1595  ls
+ 1596  cd outputs/
+ 1597  octave
+ 1598  clear
+ 1599  octave
+ 1600  octave 
+ 1601  cd gemm/src/
+ 1602  la
+ 1603  make run
+ 1604  cd  ../
+ 1605  cdd ./
+ 1606  cd  ../
+ 1607  cd  cuda_gemm/
+ 1608  make run
+ 1609  make
+ 1610  cd src/
+ 1611  make run
+ 1612  make
+ 1613  make run
+ 1614  git add ../../
+ 1615  git add ../../../
+ 1616  git commit -m "regenerate  graph"
+ 1617  git push
+ 1618  clear
+ 1619  cd ../
+ 1620  cd  gemm/
+ 1621  cd src/
+ 1622  clear
+ 1623  ls
+ 1624  clear
+ 1625  make run
+ 1626  clear
+ 1627  make run
+ 1628  make clean
+ 1629  make run
+ 1630  cd  ../../
+ 1631  cd cuda_gemm/
+ 1632  clear
+ 1633  make run
+ 1634  cd  src/
+ 1635  clear
+ 1636  make run
+ 1637  cd ../
+ 1638  cd Reisen/
+ 1639  git checkout .
+ 1640  git pull
+ 1641  clear
+ 1642  ls
+ 1643  git status
+ 1644  cd games101/
+ 1645  ls
+ 1646  git  add ./
+ 1647  git commit -m "raster"
+ 1648  git push
+ 1649  git add ./
+ 1650  git commit -m "games101 homework template"
+ 1651  git push
+ 1652  cd games101/
+ 1653  ls
+ 1654  clear
+ 1655  cdd assign0
+ 1656  cd assign01/
+ 1657  ls
+ 1658  clear
+ 1659  cmake -B build -S .
+ 1660  cmake --build build/
+ 1661  ./build/Rasterizer 
+ 1662  cd  ../
+ 1663  cd assign0
+ 1664  cd assign00
+ 1665  ls
+ 1666  cd ../
+ 1667  cd /mnt/e28833eb-0c99-4fe2-802a-09fa58d9c9f5/code/Reisen/games
+ 1668  cd /mnt/e28833eb-0c99-4fe2-802a-09fa58d9c9f5/code/Reisen/games101/
+ 1669  cd assign01/
+ 1670  ls
+ 1671  cmake --build build/
+ 1672  ./build/Rasterizer 
+ 1673  cmake --build build/
+ 1674  ./build/Rasterizer 
+ 1675  cmake --build build/
+ 1676  ./build/Rasterizer 
+ 1677  cmake --build build/
+ 1678  ./build/Rasterizer 
+ 1679  cmake --build build/
+ 1680  ./build/Rasterizer 
+ 1681  cmake --build build/
+ 1682  ./build/Rasterizer 
+ 1683  cmake --build build/
+ 1684  ./build/Rasterizer 
+ 1685  git add ../
+ 1686  git commit -m "rotate matrix"
+ 1687  git push
+ 1688  git pull
+ 1689  git checkout .
+ 1690  git pull
+ 1691  cd  ../
+ 1692  https://gitlab.com/libeigen/eigen.git
+ 1693  git clone https://gitlab.com/libeigen/eigen.git
+ 1694  cd avx/
+ 1695  cmake -B build -S src
+ 1696  cmake --build build/
+ 1697  clear
+ 1698  cmake --build build/
+ 1699  clear
+ 1700  cmake --build build/
+ 1701  ./build/avx_pd 
+ 1702  clear
+ 1703  cmake --build build/
+ 1704  ./build/avx_pd 
+ 1705  cmake --build build/
+ 1706  ./build/avx_pd_test 
+ 1707  clear
+ 1708  cmake --build build/
+ 1709  ./build/avx_pd_test 
+ 1710  cmake --build build/
+ 1711  ./build/avx_pd_test 
+ 1712  cmake --build build/
+ 1713  ./build/avx_pd_test 
+ 1714  clear
+ 1715  cmake --build build/
+ 1716  ./build/avx_pd_test 
+ 1717  cmake --build build/
+ 1718  ./build/avx_pd_test 
+ 1719  cmake --build build/
+ 1720  ./build/avx_pd_test 
+ 1721  cmake --build build/
+ 1722  ./build/avx_pd_test 
+ 1723  git add ../
+ 1724  cmake --build build/
+ 1725  ./build/avx_pd_test 
+ 1726  git add ../
+ 1727  git committ -m "1764"
+ 1728  git commit -m "1764"
+ 1729  git push
+ 1730  cmake --build build/
+ 1731  ./build/avx_pd_test 
+ 1732  cmake --build build/
+ 1733  ./build/avx_pd_test 
+ 1734  clearr
+ 1735  clear
+ 1736  cmake --build build/
+ 1737  ./build/avx_pd_test 
+ 1738  cmake --build build/
+ 1739  ./build/avx_pd_test 
+ 1740  cmake --build build/
+ 1741  ./build/avx_pd_test 
+ 1742  cmake --build build/
+ 1743  ./build/avx_pd_test 
+ 1744  cmake --build build/
+ 1745  ./build/avx_pd_test 
+ 1746  cmake --build build/
+ 1747  ./build/avx_pd_test 
+ 1748  cmake --build build/
+ 1749  ./build/avx_pd_test 
+ 1750  cmake --build build/
+ 1751  ./build/avx_pd_test 
+ 1752  cmake --build build/
+ 1753  ./build/avx_pd_test 
+ 1754  cmake --build build/
+ 1755  ./build/avx_pd_test 
+ 1756  cmake --build build/
+ 1757  ./build/avx_pd_test 
+ 1758  cmake --build build/
+ 1759  ./build/avx_pd_test 
+ 1760  cmake --build build/
+ 1761  ./build/avx_pd_test 
+ 1762  cmake --build build/
+ 1763  ./build/avx_pd_test 
+ 1764  cmake --build build/
+ 1765  ./build/avx_pd_test 
+ 1766  cmake --build build/
+ 1767  ./build/avx_pd_test 
+ 1768  cmake --build build/
+ 1769  ./build/avx_pd_test 
+ 1770  cmake --build build/
+ 1771  ./build/avx_pd_test 
+ 1772  clear
+ 1773  cmake --build build/
+ 1774  clear
+ 1775  ./build/avx_pd_test 
+ 1776  clear
+ 1777  cmake --build build/
+ 1778  ./build/avx_pd_test 
+ 1779  clear
+ 1780  git add ../
+ 1781  git commit -m "permute"
+ 1782  git pushh
+ 1783  git push
+ 1784  clear
+ 1785  ./build/avx_pd_test 
+ 1786  cmake --build build/
+ 1787  ./build/avx_pd_test 
+ 1788  clear
+ 1789  cmake --build build/
+ 1790  ./build/avx_pd_test 
+ 1791  cmake --build build/
+ 1792  ./build/avx_pd_test 
+ 1793  cd ../
+ 1794  cd gemm/
+ 1795  cd src/
+ 1796  make run
+ 1797  clear
+ 1798  make run
+ 1799  clear
+ 1800  make run
+ 1801  export KMP_AFFINITY=compact,verbose
+ 1802  export OMP_NUM_THREADS=1
+ 1803  export BLISLAB_IC_NT=1
+ 1804  make run
+ 1805  cd  outputs/
+ 1806  octave
+ 1807  cd outputs/
+ 1808  octave
+ 1809  cd gemm/src/
+ 1810  export OMP_NUM_THREADS=1
+ 1811  make run
+ 1812  clear
+ 1813  make run
+ 1814  clear
+ 1815  make run
+ 1816  clear
+ 1817  make run
+ 1818  git add ../
+ 1819  git commit -m "cblas"
+ 1820  git push
+ 1821  cd test/
+ 1822  ./collect_result_step3.sh 
+ 1823  octave 
+ 1824  cd gemm/src/
+ 1825  ls
+ 1826  make run
+ 1827  clear
+ 1828  perf list
+ 1829  git add ../../
+ 1830  git commit -m "aavx"
+ 1831  git push
+ 1832  make run
+ 1833  clear
+ 1834  make clean
+ 1835  make
+ 1836  make run
+ 1837  git add ./
+ 1838  git commit -m "bad but true"
+ 1839  git push
+ 1840  clear
+ 1841  ./collect_result_step3.sh 
+ 1842  clear
+ 1843  make clean
+ 1844  source sourceme.sh 
+ 1845  make clean
+ 1846  make
+ 1847  clear
+ 1848  octave
+ 1849  clear
+ 1850  make run
+ 1851  make clean
+ 1852  make run
+ 1853  git add ../../
+ 1854  git commit -m "???"
+ 1855  git push
+ 1856  make run
+ 1857  clear
+ 1858  make run
+ 1859  git add ./
+ 1860  git commit -m "???"
+ 1861  git push
+ 1862  make run
+ 1863  git add ./
+ 1864  git commit -m 
+ 1865  git commit -m "different between avx1 and 2"
+ 1866  git push
+ 1867  make run
+ 1868  source sourceme.sh 
+ 1869  make run
+ 1870  clear
+ 1871  make run
+ 1872  git checkout .
+ 1873  git add ./
+ 1874  git commit -m "sourceme"
+ 1875  git push
+ 1876  make run
+ 1877  git add ./
+ 1878  git commit -m "avx2 asm"
+ 1879  git push
+ 1880  git add ./
+ 1881  git commit -m "some bugs"
+ 1882  git push
+ 1883  clear
+ 1884  ./collect_result_step3.sh 
+ 1885  clear
+ 1886  cd  outputs/
+ 1887  octave
+ 1888  clear
+ 1889  make clean
+ 1890  make
+ 1891  source sourceme.sh 
+ 1892  make clean
+ 1893  make
+ 1894  make clean
+ 1895  make
+ 1896  cd ../
+ 1897  git add ../
+ 1898  git commit -m "something went wrong"
+ 1899  git push
+ 1900  clear
+ 1901  make run
+ 1902  git checkout MMult22_avx3_8x6.c
+ 1903  make run
+ 1904  perf top
+ 1905  sudo perf top
+ 1906  perf stat
+ 1907  perf stat make run
+ 1908  outputs/test_MMult.x >> outputs/output_MMult22_avx3_8x6.m
+ 1909  perf stat outputs/test_MMult.x 
+ 1910  clear
+ 1911  sudo perf record -a -g ./outputs/test_MMult.x
+ 1912  sudo perf record -a -g ./outputs/test_MMult.x -o test_mm
+ 1913  sudo perf record -a -g ./outputs/test_MMult.x
+ 1914  sudo perf report --call-graph none
+ 1915  cd outputs_perf/
+ 1916  sudo perf report --call-graph none
+ 1917  sudo perf report --call-graph none -c test_MMult.x
+ 1918  sudo perf report --call-graph none -c ./outputs/test_MMult
+ 1919  sudo perf report --call-graph none -c test_MMult
+ 1920  sudo perf report --call-graph none -c test_MMult.x
+ 1921  sudo perf report -i perf.data
+ 1922  clear
+ 1923  sudo perf timechart record -T ./outputs/test_MMult.x && sudo perf timechart –p test_MMult.x 
+ 1924  sudo perf timechart record -T ../outputs/test_MMult.x && sudo perf timechart –p test_MMult.x 
+ 1925  sudo perf timechart –p test_MMult.x  
+ 1926  sudo perf timechart 
+ 1927  nvidia-smi 
+ 1928  cd ../
+ 1929  ls
+ 1930  git clone https://github.com/18907305772/ali_e-commerce_search_competition_2022.git
+ 1931  ls
+ 1932  cd ali_e-commerce_search_competition_2022/
+ 1933  clear
+ 1934  clear
+ 1935  ckear
+ 1936  clear
+ 1937  ls
+ 1938  cd ../
+ 1939  ls
+ 1940  cd src
+ 1941  /bin/python3 /mnt/e28833eb-0c99-4fe2-802a-09fa58d9c9f5/code/ali_e-commerce_search_competition_2022/ali_1_final/ali_1/src/1.data_post_processed.py
+ 1942  ls
+ 1943  cd ali_1_final/
+ 1944  ls
+ 1945  cd ali_1
+ 1946  ls
+ 1947  cd src
+ 1948  ls
+ 1949  python 1.data_post_processed.py 
+ 1950  python3 1.data_post_processed.py 
+ 1951  ls
+ 1952  cd data
+ 1953  cd  ../data
+ 1954  mkdir processed_data
+ 1955  python3 1.data_post_processed.py 
+ 1956  mkdir processed_data_cpr
+ 1957  /bin/python3 /mnt/e28833eb-0c99-4fe2-802a-09fa58d9c9f5/code/ali_e-commerce_search_competition_2022/ali_1_final/ali_1/src/2.construct_dataset.py
+ 1958  mkdir data_neg_with_cprr
+ 1959  mkdir data_neg_with_cpr
+ 1960  clear
+ 1961  cd src
+ 1962  cd  ../
+ 1963  ls
+ 1964  cd src
+ 1965  lss
+ 1966  ls
+ 1967  python 1.data_post_processed.py 
+ 1968  python3 1.data_post_processed.py 
+ 1969  python3 2.construct_dataset.py 
+ 1970  python3 3.model_train.py 
+ 1971  clear
+ 1972  python3 3.model
+ 1973  clear
+ 1974  python3 3.model_train.py 
+ 1975  clear
+ 1976  python3 3.model_train.py 
+ 1977  git checkout ./
+ 1978  ls
+ 1979  chmod 777 shell_2.run_posttrain.sh 
+ 1980  ls
+ 1981  ./shell_2.run_posttrain.sh 
+ 1982  clear
+ 1983  python3 posttrain_data_post_processed.py
+ 1984  ./shell_2.run_posttrain.sh 
+ 1985  clear
+ 1986  ./shell_2.run_posttrain.sh 
+ 1987  ping google.com
+ 1988  ping https://huggingface.co
+ 1989  ping huggingface.co
+ 1990  clear
+ 1991  export http_proxy='http://127.0.0.1:7890'  
+ 1992  export https_proxy='http://127.0.0.1:7890'
+ 1993  ping google.com
+ 1994  ping huggingface.co
+ 1995  ./shell_2.run_posttrain.sh 
+ 1996  ping huggingface.co
+ 1997  clear
+ 1998  cat /etc/profile
+ 1999  clear
+ 2000  cat /etc/profile
+ 2001  cd ../AliRetrieve/
+ 2002  ls
+ 2003  python3 dataset.py 
+ 2004  clear
+ 2005  python3 dataset.py 
+ 2006  clear
+ 2007  python3 dataset.py 
+ 2008  export http_proxy=127.0.0.1:7890
+ 2009  export https_proxy=127.0.0.1:7890
+ 2010  python3 dataset.py 
+ 2011  export http_proxy=http://127.0.0.1:7890
+ 2012  export https_proxy=http://127.0.0.1:7890
+ 2013  python3 dataset.py 
+ 2014  source sourceme.sh 
+ 2015  python3 dataset.py 
+ 2016  ls
+ 2017  cd ../
+ 2018  cd ali_e-commerce_search_competition_2022/
+ 2019  ;s
+ 2020  ls
+ 2021  cd ali_1_final/
+ 2022  ls
+ 2023  cd ali_1
+ 2024  ls
+ 2025  cd src
+ 2026  ls
+ 2027  python 3.model_train.py 
+ 2028  python3 3.model_train.py 
+ 2029  export http_proxy=http://127.0.0.1:7890
+ 2030  export https_proxy=http://127.0.0.1:7890
+ 2031  python3 3.model_train.py 
+ 2032  cd ../
+ 2033  ls
+ 2034  cd ../
+ 2035  ks
+ 2036  ls
+ 2037  cd ../
+ 2038  ls
+ 2039  cd AliRetrieve/
+ 2040  ls
+ 2041  git add .
+ 2042  git commit -m 'add dataset.py which is exmp from huggingface colab'
+ 2043  git push
+ 2044  cat ~/.ssh/id_rsa.pub 
+ 2045  ssh-keygen
+ 2046  ls
+ 2047  rm wbb_rsa
+ 2048  rm wbb_rsa.pub 
+ 2049  clear
+ 2050  ssh-keygen
+ 2051  git push
+ 2052  git config 
+ 2053  git config --list
+ 2054  git config user.email beibeiwang045@gmail.com
+ 2055  git config user.name superwbb007
+ 2056  git push
+ 2057  clear
+ 2058  git push
+ 2059  git rm --cache bert-finetuned-sem_eval-english/
+ 2060  git rm -r --cache bert-finetuned-sem_eval-english/
+ 2061  clear
+ 2062* 
+ 2063  git commit -m "delete model files"
+ 2064  git push
+ 2065  git status
+ 2066  git rm -r --cache bert-finetuned-sem_eval-english/
+ 2067  git rm -r --cache wandb/
+ 2068  git log
+ 2069  git add ./
+ 2070  git rm -r --cache wandb
+ 2071  git commit -m "delete wandb files"
+ 2072  git status
+ 2073  git commit 
+ 2074  git push
+ 2075  git rm --cache data
+ 2076  git rm -r --cache wandb
+ 2077  git rm -r --cache data
+ 2078  git add ./
+ 2079  git commit -m 
+ 2080  git commit -m "rm data files"
+ 2081  git rm -r --cache data
+ 2082  git add ./
+ 2083  git commit -m "rm data files"
+ 2084  git push
+ 2085  git rm -r --cache data
+ 2086  git rm -r --cache wandb/
+ 2087  git rm -r --cache bert-finetuned-sem_eval-english/
+ 2088  git commit -m "rm data files"
+ 2089  git log
+ 2090  git revert bd5e4cebc32b928ecc443899e40cf3bfc015f9e1
+ 2091* 
+ 2092  git log
+ 2093  git commit -m "add model file"
+ 2094  git push
+ 2095  git add ./
+ 2096  git commit -m "add readme"
+ 2097  git push
+ 2098  history
+ 2099  history >>  hitstory.txt
